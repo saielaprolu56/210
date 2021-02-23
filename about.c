@@ -3,6 +3,6 @@
 #include<conio.h>
 int main()
 {
- printf("welcome to workshop");
+ printf("workshop");
  return 0;
 }
