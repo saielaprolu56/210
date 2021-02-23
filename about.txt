@@ -1,2 +1,6 @@
-the new header file #include<conio.h> id added
-
+#include<stdio.h>
+int main()
+{
+printf("hello")
+printf("world")
+}
